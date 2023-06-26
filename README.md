@@ -22,11 +22,13 @@ LEVEL_1/
 Where __north-or-south__ can be:
 * North - towns roughly from the north side of Cape Cod to the New Hampshire border
 * South - towns on the south side of Cape Cod, the "south coast" and the Islands
+
 And __year__ can be:
 * Present (2018)
 * 2030
 * 2050
 * 2070
+
 And __kind\_of\_data__ can be:
 * Probability
 * Depth at 1% probability
