@@ -19,6 +19,20 @@ LEVEL_1/
 				individual TIF files
 ```
 
+Where __north-or-south__ can be:
+* North - towns roughly from the north side of Cape Cod to the New Hampshire border
+* South - towns on the south side of Cape Cod, the "south coast" and the Islands
+And __year__ can be:
+* Present (2018)
+* 2030
+* 2050
+* 2070
+And __kind\_of\_data__ can be:
+* Probability
+* Depth at 1% probability
+* Depth at 0.5% probability
+* Depth at 0.1% probability
+
 ## Purpose
 The purpose of this tool is to create a single raster mosaic for 
 each {year, kind-of-data) from all the relevant TIFs.
